@@ -1,0 +1,29 @@
+Body{
+background-color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+max width: 900px;
+margin: 1rem auto;
+padding:1rem;
+}
+
+
+
+
+h1{
+    background-image: url(MOVIEBAR.jpg);
+    color:black;
+    text-align: center;
+    
+}
+p{
+        color: yellow;
+        text-align: center;
+        text-decoration: underline;
+        
+}
+
+
+
+    
+
+
